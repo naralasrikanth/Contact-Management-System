@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5EnTaqTdppiAGCgcsvVkRiepJMcBEAvttA3uRGWSwnA=",
+  "Source": "backendContacts",
+  "BasePath": "_content/backendContacts",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
